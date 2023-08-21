@@ -6,6 +6,9 @@
     - [BD Cliente](#bd-cliente-servidor)
     - [BD Distribuído](#bd-distribuido)
     - [Datawarehouses](#datawarehouses)
+    - [Data Mart](#data-mart)
+    - [Data Mind](#data-mind)
+    - [Data Lake](#data-lake)
   
 Aula do dia 15/08/2023
 
@@ -48,3 +51,33 @@ níveis estratégicos da organização. Um data warehouse armazena dados atuais 
 ![image](https://github.com/RafaelaDBonis/BD/assets/98855185/2218a370-fce2-4dc8-b03a-d9c562119704)
 
 # Data mart
+
+É um subconjunto de data warehouses que analisa grandes repositórios de dados. Contém dados resumidos ou específicos para uso de um departamento 
+ou grupo de usuários.
+
+* As fontes de data mart podem incluir sistemas operacionais internos, um data warehouse central e dados externos.
+
+# Data Mind
+
+Conjunto de ferramentas e técnicas que através do uso de algoritmos de aprendizagem ou classificação baseados em redes neurais e estatística.
+
+* Consideramos *Data Mining* ou *Mineração de Dados* o processo de explorar grandes qauntidades de dados à procura de padrões consistentes.
+
+
+# Data Lake
+
+Data Lake é uma aquitetura flexível capaz de encarar grande volume de dados, podendo ser usado da maneira que a empresa desejar. 
+
+
+# Quando não usar o bd
+
+* Pequeno volume de dados, aplicações simples
+* Sem previsões de mudanças
+* Ambientes de sistemas que exijam respostas em tempo real
+
+# Modelos de Dados
+
+* Modelo Hierárquico
+
+
+
